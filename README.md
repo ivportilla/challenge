@@ -18,8 +18,9 @@ Debe tener instalado React-Native, en este caso lo que se hizo fue utilizando
 la última versión 0.33, para su instalación se recomienda seguir la [guía oficial](https://facebook.github.io/react-native/docs/getting-started.html#content)
 
 Pasos para la ejecución:
-* Iniciar servidor con el comando react-native start
-* Con el emulador o dispositivo conectado ejecutar react-native run-android
+* Clonar este repositorio `git clone https://github.com/Ivykp/challenge.git`
+* Iniciar servidor con el comando `react-native start`
+* Con el emulador o dispositivo conectado ejecutar `react-native run-android`
 * La aplicación debería correr con normalidad
 > Se recomienda utiliza Android 5.0+ para evitar problemas con el bundler de react-native.
 
